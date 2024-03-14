@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.117 (w)1999-2023 BSI
+[*] Mon Feb  5 11:38:55 2024
+[*]
+[dumpfile] "/home/petr/repos/ctu/fpga-uart/coco/sim_build/dump.fst"
+[dumpfile_mtime] "Mon Feb  5 11:29:41 2024"
+[dumpfile_size] 5527
+[savefile] "/home/petr/repos/ctu/fpga-uart/coco/rxWaveform.gtkw"
+[timestart] 0
+[size] 1920 1080
+[pos] -1 -1
+*-23.600515 18630000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 310
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 320
+@28
+[color] 3
+uartRx.clk
+@24
+uartRx.clockCount[31:0]
+@28
+uartRx.doneRx
+[color] 1
+uartRx.inputRx
+uartRx.state[2:0]
+@24
+[color] 2
+uartRx.outputRx[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

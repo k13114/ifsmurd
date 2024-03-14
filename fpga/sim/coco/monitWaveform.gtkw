@@ -1,0 +1,118 @@
+[*]
+[*] GTKWave Analyzer v3.3.117 (w)1999-2023 BSI
+[*] Fri Mar  1 09:55:32 2024
+[*]
+[dumpfile] "/home/petr/repos/ctu/fpga-uart/coco/sim_build/dump.fst"
+[dumpfile_mtime] "Thu Feb 29 13:48:31 2024"
+[dumpfile_size] 1527178
+[savefile] "/home/petr/repos/ctu/fpga-uart/coco/monitWaveform.gtkw"
+[timestart] 0
+[size] 1920 1200
+[pos] -1 -1
+*-28.021397 692000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] monit.
+[treeopen] monit.comUnitModule.
+[sst_width] 302
+[signals_width] 464
+[sst_expanded] 1
+[sst_vpaned_height] 403
+@28
+[color] 3
+monit.clk
+@200
+-Start of the Communication Module
+@28
+monit.comUnitModule.startComm
+@200
+-State of Communication FSM
+@24
+[color] 2
+monit.comUnitModule.state[3:0]
+@22
+[color] 5
+monit.comUnitModule.uartTxModule.inputTxByte[7:0]
+[color] 5
+monit.comUnitModule.uartTxModule.inputTxByteInternal[7:0]
+@28
+[color] 5
+monit.comUnitModule.uartTxModule.inputTxByteInternal[7:0]
+monit.comUnitModule.startTxInternal
+[color] 2
+monit.outputTx
+@200
+-Index of sent variable
+@22
+monit.comUnitModule.variableIndex[7:0]
+@200
+-Index of sent bit
+-single variable
+@24
+[color] 5
+monit.comUnitModule.uartTxModule.bitIndex[2:0]
+@200
+-Sent Byte OK
+@28
+[color] 5
+monit.doneTx
+@200
+-Output Signal from Tx
+@28
+[color] 5
+monit.outputTx
+@200
+-Received Byte Ok
+@28
+[color] 1
+monit.doneRx
+@200
+-Output Signal from Rx
+-Received Data
+@22
+[color] 1
+monit.outputRx[7:0]
+@28
+[color] 1
+monit.outputRx[7:0]
+@24
+monit.comUnitModule.outputRx[7:0]
+@22
+monit.senderConnectorInternal[7:0]
+@24
+monit.inputVariableIndex[7:0]
+@28
+[color] 2
+monit.led1
+@22
+[color] 2
+monit.dataRxBuffer[31:0]
+monit.comUnitModule.crcIndex[7:0]
+@28
+monit.comUnitModule.crcIndex[7:0]
+@200
+-
+@25
+monit.comUnitModule.crcIndex[7:0]
+@22
+monit.comUnitModule.crcIn[7:0]
+@28
+monit.comUnitModule.startTxInternal
+@22
+monit.comUnitModule.crcOut[31:0]
+@28
+monit.comUnitModule.startTxInternal
+@8024
+monit.timingCounter[31:0]
+@20000
+-
+-
+-
+@22
+monit.comUnitModule.state[3:0]
+monit.monitConnector[1][31:0]
+monit.monitConnectorMemory[1][31:0]
+monit.testingCounter[31:0]
+@40000420
+[fpshift_count] 15
+monit.testik[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

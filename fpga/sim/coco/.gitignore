@@ -1,0 +1,5 @@
+sim_build
+assets
+__pycache__
+.pytest_cache
+*.html
