@@ -80,6 +80,6 @@ Feedback is also welcome! Please submit an issue or contact our core maintainers
 
 ### Petr Zakopal
 
-[![Static Badge](https://img.shields.io/badge/core%20maintainer-Petr%20Zakopal-%23A6CE39?style=flat&logo=orcid&label=first%20author&link=https%3A%2F%2Forcid.org%2F0009-0000-9334-3659)](https://orcid.org/0009-0000-9334-3659) ![Static Badge](https://img.shields.io/badge/profile-%23010101?logo=x&link=https%3A%2F%2Ftwitter.com%2Fpetr_zakopal) ![Static Badge](https://img.shields.io/badge/profile-%230077B5?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpetr-zakopal)
+[![Static Badge](https://img.shields.io/badge/profile-%23555?logo=orcid&link=https%3A%2F%2Forcid.org%2F0009-0000-9334-3659)](https://orcid.org/0009-0000-9334-3659) [![Static Badge](https://img.shields.io/badge/profile-%23010101?logo=x&link=https%3A%2F%2Ftwitter.com%2Fpetr_zakopal)](https://twitter.com/petr_zakopal) [![Static Badge](https://img.shields.io/badge/profile-%230077B5?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpetr-zakopal)](https://www.linkedin.com/in/petr-zakopal/)
 
 [zakoppe1@fel.cvut.cz](zakoppe1@fel.cvut.cz)
